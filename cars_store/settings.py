@@ -81,11 +81,11 @@ WSGI_APPLICATION = 'cars_store.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME':'postgres',  
-        'USER': 'postgres',
-        'PASSWORD': 'postgres',
-        'HOST': 'db',
-        'PORT': '5432',
+        'NAME': 'kenyjkti',
+        'USER': 'kenyjkti',
+        'PASSWORD': 'eGKFZ8OTF7L9hrFReHCNfo2K6mwXpn96',
+        'HOST': 'tyke.db.elephantsql.com',
+        'PORT':'5432'
     }
 }
 
